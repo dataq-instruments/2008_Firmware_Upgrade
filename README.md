@@ -12,4 +12,4 @@ To update the firmware:
 
 7. Once the update is complete, a message will appear indicating that the firmware update completed successfully
 8. With the update complete, unplug the USB cable, and plug it back in again
-9. The LED will blink green, indicating that you're ready to run the 'DI-2008 Acquisition' software
+9. The LED will blink green, indicating that you're ready to run the 'DI-2008 Acquisition' software, or yellow, indicating that it is in CDC mode that you can use it in python programming as a COM port device
