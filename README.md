@@ -7,7 +7,7 @@ To update the firmware:
 5. Run the Update.exe application and click the 'Update Firmware' button 
 
 ```diff
-+6. Carefully follow the instructions on the screen
+-6. Carefully follow the instructions on the screen
 ```
 
 7. Once the update is complete, a message will appear indicating that the firmware update completed successfully
