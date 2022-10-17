@@ -1,5 +1,7 @@
 To update the firmware:
 
+**This firmware should only be used on hardware shipped before July, 2022**
+
 1. Download and unzip the file to your PC
 2. Start with the DI-2008 disconnected from your PC
 3. Hold down the pushbutton on the side of the DI-2008, and connect the unit to your PC
