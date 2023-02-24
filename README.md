@@ -1,6 +1,9 @@
+Firmware 115 was for 2008 manufactured before September 2003
+Firmware 117 was for 2008 manufactured after September 2003
+
 To update the firmware:
 
-**This firmware should only be used on hardware shipped before September, 2022**
+**Firmware 115 should only be used on hardware shipped before September, 2022**
 
 1. **If your DI-2008 is shipped after September, 2022, skip the process!**
 2. Download and unzip the file to your PC
