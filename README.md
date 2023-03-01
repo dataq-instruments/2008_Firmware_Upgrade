@@ -1,5 +1,5 @@
-Firmware 115 was for 2008 manufactured before September 2022. 
-Firmware 117 was for 2008 manufactured after September 2022. 
+Firmware 115 is for 2008 manufactured before September 2022. 
+Firmware 117 is for 2008 manufactured after September 2022. 
 
 To update the firmware:
 
