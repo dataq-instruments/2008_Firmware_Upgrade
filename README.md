@@ -1,5 +1,7 @@
-Firmware 115 is for 2008 manufactured before September 2022. 
+Firmware 115 is for 2008 manufactured before September 2022.
+
 Firmware 117 is for 2008 manufactured after September 2022. 
+
 Firmware 119 is necessary to use WinDaq Direct (Max throughput rate at 2000 S/s)
 
 To update the firmware:
